@@ -1,1 +1,1 @@
-# This is a flutter app using gettx.
+# This is a flutter app using getx.
